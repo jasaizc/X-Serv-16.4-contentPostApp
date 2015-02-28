@@ -13,13 +13,4 @@ En definitiva, se pide que cuando se reciba un GET pidiendo cualquier recurso, s
 
 ## Forma de entrega
 
-Has de tener un repositorio llamado X-Serv-16.4-contentPostApp en tu cuenta en GitHub
-que incluya el fichero de nombre 'contentapp.py' que contenga las
-instrucciones en Python para solucionar el ejercicio.
-
-Se proporciona un script, check.py, para comprobar la entrega correcta
-del ejercicio. El script de comprobación se ha de ejecutar desde terminal
-pasándole como parámetro tu nombre de usuario en GitHub. Así, un ejemplo de
-ejecución sería:
-
-$ python check.py gregoriorobles
+Este ejercicio no requiere ser entregado.
